@@ -13,6 +13,7 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 ## EQUIPMENT'S REQUIRED:
 
  1.Hardware – PCs, Cyclone II , USB flasher
+ 
  2.Software – Quartus prime
 
 ## THEORY:
@@ -73,30 +74,30 @@ endmodule
 
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 
-# TRUTH TABLE:
+### TRUTH TABLE:
 
 ![output](TT-1.png)
 
-# RTL REALIZATION:
+### RTL REALIZATION:
 
 ![output](rtl-1.png)
 
-# TIMING DIAGRAM:
+### TIMING DIAGRAM:
 
 ![output](Td-1.png)
 
 
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
-# TRUTH TABLE:
+### TRUTH TABLE:
 
 ![output](TT-2.png)
 
-# RTL REALIZATION:
+### RTL REALIZATION:
 
 ![output](rtl-2.png)
 
-# TIMING DIAGRAM:
+### TIMING DIAGRAM:
 
 ![output](Td-2.png)
 
