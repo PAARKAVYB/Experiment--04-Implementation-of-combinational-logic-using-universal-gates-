@@ -5,6 +5,7 @@
 ## AIM:
 
 To implement the given logic function using NAND and NOR gates and to verify its operation in Quartus using Verilog programming.
+
 F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')' using NOR gate
 
